@@ -67,5 +67,5 @@ I love creating solutions that make an impact in the real world.
 ## 📬 Let’s connect
 📧 **Email:** gautampatil9898@gmail.com  
 💼 **Kaggle:** https://www.kaggle.com/gautampatil9898  
-💼 **HackerRank:** https://www.hackerrank.com/profile/gautampatil9898
+💼 **HackerRank:** https://www.hackerrank.com/profile/gautampatil9898                                                                                              
 ⭐ If you find my work interesting, feel free to explore, fork, or collaborate!
